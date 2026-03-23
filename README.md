@@ -8,9 +8,12 @@ Drop any OTF, TTF, WOFF, or WOFF2 file into the browser. Type some text. See exa
 
 **No install. No build step. Just one HTML file.**
 
-→ **[Try it live](https://toolbox.haraldgeisler.com/?p=131)**
- 
-→ **[GitHub Pages mirror](https://d-barrow.github.io/opentype-variant-analyzer/opentype-variant-analyzer.html)**
+![Screenshot](Bildschirmfoto.webp)
+<div align="center">
+
+**[Try it live](https://toolbox.haraldgeisler.com/?p=131)** ← | → **[GitHub Pages mirror](https://d-barrow.github.io/opentype-variant-analyzer/opentype-variant-analyzer.html)**
+
+</div>
 
 > Built during the development of a Goethe handwriting font with 4+ contextual alternates per letter.
 
