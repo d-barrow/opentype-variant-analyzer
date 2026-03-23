@@ -3,3 +3,8 @@ test-results/
 playwright-report/
 .DS_Store
 wordpress-embed.html
+package.json
+package-lock.json
+playwright.config.ts
+tests/
+test-fixtures/

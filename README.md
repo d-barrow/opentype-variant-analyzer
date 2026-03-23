@@ -8,13 +8,13 @@ Drop any OTF, TTF, WOFF, or WOFF2 file into the browser. Type some text. See exa
 
 **No install. No build step. Just one HTML file.**
 
-**[Try it live](https://toolbox.haraldgeisler.com/?p=131)** — no download needed, runs in your browser.
+**[Try it live](https://toolbox.haraldgeisler.com/?p=131)** | **[GitHub Pages mirror](https://d-barrow.github.io/opentype-variant-analyzer/opentype-variant-analyzer.html)**
 
 > Built during the development of a Goethe handwriting font with 4+ contextual alternates per letter.
 
 ## Who is this for?
 
-- **Type designers** testing contextual alternates (calt), stylistic sets (ss01–ss20), and randomization features
+- **Type designers** testing distribution of alternates, stylistic sets (ss01–ss20), and randomization features
 - **Font engineers** debugging GSUB lookup behavior and variant distribution
 - **Calligraphy & handwriting font creators** checking that letter repetition looks natural
 - **Typography students** learning how OpenType shaping works under the hood
