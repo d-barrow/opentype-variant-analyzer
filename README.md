@@ -8,6 +8,8 @@ Drop any OTF, TTF, WOFF, or WOFF2 file into the browser. Type some text. See exa
 
 **No install. No build step. Just one HTML file.**
 
+**[Try it live](https://toolbox.haraldgeisler.com/?p=131)** — no download needed, runs in your browser.
+
 > Built during the development of a Goethe handwriting font with 4+ contextual alternates per letter.
 
 ## Who is this for?
@@ -60,17 +62,6 @@ All dependencies load from jsDelivr CDN — no build step required:
 - [chartjs-chart-matrix 3.0.0](https://github.com/kurkle/chartjs-chart-matrix) — heatmap
 - [opentype.js 1.3.4](https://opentype.js.org/) — OTF/TTF parsing & glyph name resolution
 - [harfbuzzjs 0.10.1](https://github.com/nicolo-ribaudo/harfbuzzjs) — HarfBuzz WASM text shaping
-
-## Running Tests
-
-```bash
-cd font-analyzer
-npm install
-npx playwright install chromium
-npx playwright test
-```
-
-32 Playwright tests cover page structure, font loading, variant parsing, shaping engine, analytics, visualization, and live update.
 
 ## WordPress Embedding
 
